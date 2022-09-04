@@ -1,0 +1,226 @@
+body{
+    background-color:#fafafa;
+}
+.main {
+    background-color: #fafafa;
+    display: flex;
+
+}
+
+.mainsection {
+    background-color: #fafafa;
+    display: flex;
+    margin-left: 250px;
+    margin-top: 30px;
+}
+
+img.mobilepic {
+    width: 450px;
+    height: 635px;
+}
+
+.rightside {
+    width: 343px;
+    height: 575px;
+    margin-top: 15px;
+}
+
+.login {
+    width: 343px;
+    height: 390px;
+    background-color: white;
+    border: 1px solid rgba(133, 133, 133, 0.3);
+}
+
+img.logo {
+    margin-top: 45px;
+    margin-left: 90px;
+}
+
+.inputtext {
+    margin-top: 30px;
+    width: 258px;
+    height: 28px;
+    margin-left: 37px;
+    background-color: #fafafa;
+    border: 1px solid rgba(133, 133, 133, 0.3);
+    border-radius: 2.5px;
+    font-size: 12px;
+    color: #8e8e8e;
+}
+
+.inputpassword {
+    margin-top: 7px;
+    width: 258px;
+    height: 28px;
+    margin-left: 37px;
+    background-color: #fafafa;
+    border: 1px solid rgba(133, 133, 133, 0.3);
+    border-radius: 2.5px;
+    font-size: 12px;
+    color: #8e8e8e;
+}
+
+.login button {
+    width: 268px;
+    height: 30px;
+    background-color: #0095f6;
+    border: none;
+    margin-top: 13px;
+    margin-left: 35px;
+    border-radius: 4px;
+    font-size: 14px;
+    color: white;
+}
+
+.hrandor {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.or {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 25px;
+    color: #8e8e8e;
+    font-weight: 600;
+    font-size: 13px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+
+.firsthr,
+.secondhr {
+    width: 105px;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    background-color: #dddddd;
+}
+
+.fblogoandlogin {
+    display: flex;
+    width: 170px;
+    margin-top: 30px;
+    margin-left: 90px;
+}
+
+.fblogo img {
+    width: 15px;
+    height: 15px;
+}
+
+.loginfb {
+    height: 20px;
+    margin-left: 10px;
+    color: #385185;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    font-weight: 500;
+}
+
+.loginfb a {
+    text-decoration: none;
+    color: #385185;
+}
+
+.forgot {
+    margin-top: 20px;
+    margin-left: 105px;
+}
+
+.forgot a {
+    text-decoration: none;
+    font-size: 12px;
+    color: #00376b;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+
+.signup {
+    background-color: white;
+    width: 343px;
+    height: 63px;
+    border: 1px solid rgba(133, 133, 133, 0.3);
+    margin-top: 10px;
+}
+
+.signuptext {
+    width: 205px;
+    height: 63px;
+    margin-left: 70px;
+    display: flex;
+}
+
+.signuptext p {
+    margin-top: 25px;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+
+.signuptext a {
+    text-decoration: none;
+    font-weight: 500;
+    color: #0095f6;
+}
+
+.getapp {
+    margin-top: 25px;
+    margin-left: 125px;
+    width: 80px;
+    height: 20px;
+    color: #262626;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+}
+
+.download {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.appstore {
+    width: 136px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.googleplay {
+    width: 136px;
+    height: 40px;
+}
+.footer{
+    height: 130px;
+    background-color: #fafafa;
+}
+.footer1{
+    margin-left: 230px;
+    width: 900px;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    margin-top: 20px;
+}
+.footer2{
+    margin-left: 500px;
+    width: 380px;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    margin-top: 10px;
+}
+.footer3{
+    margin-left: 550px;
+    width: 300px;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    color: #8e8e8e;
+    margin-top: 20px;
+}
+.footer1 a, .footer2 a, .footer3 a{
+    text-decoration: none;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont;
+    color: #8e8e8e;
+    margin-right: 10px;
+}
